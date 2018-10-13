@@ -19,4 +19,4 @@ function deepestChild() {
  for (var i = 0; parent.length - 1 > i; i++){
      child = parent[i].querySelector('div')
  }
-}
+}return child
