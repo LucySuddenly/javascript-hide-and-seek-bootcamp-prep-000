@@ -17,8 +17,6 @@ function deepestChild() {
  .querySelectorAll('div')
  const child = 0
  for (var i = 0; parent.length - 1 > i; i++){
-   if (querySelector('div') === null) {
      child = parent[i].querySelector('div')
-   }
  }
 }
